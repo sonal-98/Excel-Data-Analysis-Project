@@ -23,7 +23,7 @@ Advanced Lookups & Formulas
 LAMBDA and Dynamic Arrays
 Power Query & Power Pivot
 
-2. Porter Delivery Analysis
+2. Porter Delivery Analysis 02
 
 The Porter Delivery Analysis project focuses on analyzing delivery-related data to identify operational patterns, performance trends, and factors affecting delivery operations.
 
@@ -51,7 +51,7 @@ Sorting & Filtering
 KPI Analysis
 Data Visualization
 
-3. Adecco HR Analytics
+3. Adecco HR Analytics 03
 
 The Adecco HR Analytics project focuses on analyzing employee and HR-related data to identify workforce trends and generate useful insights for HR decision-making.
 
