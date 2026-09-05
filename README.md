@@ -1,5 +1,6 @@
 # Excel-data-analysis-project
 📌 Overview
+ 
 
 This repository contains a collection of Advanced Microsoft Excel projects and practice assignments completed to strengthen my skills in data cleaning, data analysis, business analytics, visualization and, dashboard creation.
 
@@ -12,7 +13,7 @@ Adecco HR Analytics 03
 These projects demonstrate my ability to transform raw data into meaningful insights using Excel-based analytical techniques and business-oriented problem solving.
 
 📂 Projects
-##1. Advanced Excel Practice Assignment 01##
+## 1. Advanced Excel Practice Assignment 01 ##
 
 This project is designed to practice and demonstrate advanced Excel concepts and functions used for data analysis.
 
@@ -23,7 +24,7 @@ Advanced Lookups & Formulas
 LAMBDA and Dynamic Arrays
 Power Query & Power Pivot
 
-##2. Porter Delivery Analysis 02##
+## 2. Porter Delivery Analysis 02 ##
 
 The Porter Delivery Analysis project focuses on analyzing delivery-related data to identify operational patterns, performance trends, and factors affecting delivery operations.
 
@@ -51,7 +52,7 @@ Sorting & Filtering
 KPI Analysis
 Data Visualization
 
-##3. Adecco HR Analytics 03##
+## 3. Adecco HR Analytics 03 ##
 
 The Adecco HR Analytics project focuses on analyzing employee and HR-related data to identify workforce trends and generate useful insights for HR decision-making.
 
